@@ -474,9 +474,9 @@ input {
 }
 
 .btn-theme {
-  background-color: #DCA5F8;
+  background-color: #72448A;
   color: #ffffff !important;
-  border: 2px solid #DCA5F8;
+  border: 2px solid #72448A;
 }
 
 .btn-theme.border {
@@ -1276,7 +1276,7 @@ body,
 }
 
 .banner-area .content span {
-  color: #DCA5F8;
+  color: #75468D;
 }
 
 .banner-area .content a {
